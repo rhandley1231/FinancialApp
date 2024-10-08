@@ -1,6 +1,9 @@
 # FinancialApp
 This is the repository that will be used to develop the application for the machine learning internship students are participating in.
 React Frontend, Spring Boot backend in Java, and Apache Derby as the database.
+
+**Remember to always work in a detatched branch so the main repository stays protected**
+
 ### To local host the app:
 In separate terminals, follow these commands:
 - startServerNetwork      //This will initialize the derby database
