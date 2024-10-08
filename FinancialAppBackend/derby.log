@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Tue Oct 08 11:37:29 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0192-6cc7-3c14-0000016a3350 
+on database directory memory:/Users/ryanhandley/Desktop/St. John's University/CCPS GA/Crocetti/Internship/Codebase/FinancialAppBackend/mydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@18ff02e4 
+Loaded from file:/Users/ryanhandley/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=23+37-2369
+user.dir=/Users/ryanhandley/Desktop/St. John's University/CCPS GA/Crocetti/Internship/Codebase/FinancialAppBackend
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Oct 08 11:40:22 EDT 2024:
+Shutting down instance a816c00e-0192-6cc7-3c14-0000016a3350 on database directory memory:/Users/ryanhandley/Desktop/St. John's University/CCPS GA/Crocetti/Internship/Codebase/FinancialAppBackend/mydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@18ff02e4 
+----------------------------------------------------------------
+Tue Oct 08 11:40:23 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 0963c106-0192-6cc7-3c14-0000016a3350 
+on database directory memory:/Users/ryanhandley/Desktop/St. John's University/CCPS GA/Crocetti/Internship/Codebase/FinancialAppBackend/mydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@18ff02e4 
+Loaded from file:/Users/ryanhandley/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=23+37-2369
+user.dir=/Users/ryanhandley/Desktop/St. John's University/CCPS GA/Crocetti/Internship/Codebase/FinancialAppBackend
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
