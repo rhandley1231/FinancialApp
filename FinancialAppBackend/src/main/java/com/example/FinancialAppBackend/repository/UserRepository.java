@@ -1,10 +1,10 @@
-package com.example.FinancialAppBackend.view;
+package com.example.FinancialAppBackend.repository;
 
 import com.example.FinancialAppBackend.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface UserView extends JpaRepository<User, Long> {
-    User findByUsername(String username);
+public interface UserRepository extends JpaRepository<User, Long> {
+    User findByEmail(String email);
 }
