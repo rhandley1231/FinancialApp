@@ -1,5 +1,5 @@
 # FinancialApp
-This is the repository that will be used to develop the application for the machine learning internship students are participating in.  
+Repository for the machine learning internship I co-lead which students are participating in.  
 React Frontend, Spring Boot backend in Java, and MySQL as the database.
 
 **Remember to always work in a detatched branch so the main repository stays protected**
@@ -18,7 +18,7 @@ Backend & database team: you will still need to local host the frontend to test 
 When we're debugging our code, use Google Chrome's developer tools to check for any issues (Inspect Element, view the console for errors and debuging statements)
 Get the react developer tools for google chrome (google chrome extension)
 
-This code base uses a Model View Controller (MVC) design on the backend.  This is a software design approach which uses a data model to represent and interact with information (See the User.java file), a view to show the user the data (See the UserView.java file), and a Controller is the middleman which handles the interactions between the model and the view (See the UserController.java file).  
+This code base uses a Model View Controller (MVC) design on the backend.  This is a software design approach which uses a data model to represent and interact with information (See the User.java file), a view to show the user the data (See the frontend), and a Controller is the middleman which handles the interactions between the model and the view (See the UserController.java file).  
 
 - Say the user enters their username and password on the UI, our view, and clicks login:
   - The controller will process this event and ask the model to validate the user data from the database.
